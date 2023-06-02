@@ -27,6 +27,6 @@ Console error about customtkinter font shape not found (Being Fixed)
 
 or
 
-1. Downloade the Installer.
+1. Download the Installer https://github.com/ChristianBosse/YouTubeDownloader/releases/tag/Release
 2. Install the program.
 3. Run the program.
